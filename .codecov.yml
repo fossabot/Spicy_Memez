@@ -1,0 +1,12 @@
+coverage:
+  status:
+    patch: false
+    changes: false
+    project:
+      default: false
+      app:
+        paths: "src/"
+        target: 65%
+      tests:
+        paths: "tests/"
+        target: 85%
